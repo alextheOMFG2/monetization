@@ -25,3 +25,27 @@ body {
   left: 15%;
   font-size: x-large;
 }
+
+a:link {
+  color: #96b7f8;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #6279ea;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #e0fdff;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #59c0a1;
+  background-color: transparent;
+  text-decoration: underline;
+}
